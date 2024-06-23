@@ -1,3 +1,6 @@
+# Plan to complete your sections by the week of July 5 (3 weeks)  
+we'll meet after that to go over the stuff  
+
 # OverView
 This repository is for overarching goals of the summer programming workshop
 
