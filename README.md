@@ -13,7 +13,7 @@ This workshop is designed for those new to python, and consists of 3 modules. Th
 * Thursday, August 16 [4 hrs] - Workshop Day1
 * Friday, August 17 [4 hrs] - Workshop Day2 + post-workshop survey [here]
   
-**Details:**
+**Details:**  
 The Python Primer consists of 3 sub-modules:  
 * [`0.0 Software Installation`](./0.0_python_primer_software_installation.md) – installing python, dependencies and text editor  
 * [`0.1 Syntax Fundamentals`](./0.1_python_primer_syntax_fundamentals.ipynb) – basic loops, types, functions and python philosophy  
