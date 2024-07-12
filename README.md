@@ -1,11 +1,10 @@
-# Plan to complete your sections by the week of July 5 (3 weeks)  
-we'll meet after that to go over the stuff  
+# Final files to be complete by Friday, August 2
 
 # Python Workshop
 ---
 Welcome to the Mines Chemistry Department Programming Workshop!  
 
-This workshop is designed for those new to python, and consists of 3 modules. The first module ([Python Primer](./Python_Primer/)) covers python installation, basic syntax and package installation. If you already have python installed or are comfortable learning basic programming syntax on your own, you may choose to skip this module. The next two modules make up the main workshop and will cover opening files, manipulating data and basic and advanced plotting and the use of generative AI. Day 2 will include time to apply the skills to your own data.  
+This workshop is designed for those new to python, and consists of 3 modules. The first module ([Python Primer](https://github.com/Mines-Python-Workshop/Python_Workshop_Materials/tree/main/Python_Primer)) covers python installation, basic syntax and package installation. If you already have python installed or are comfortable learning basic programming syntax on your own, you may choose to skip this module. The next two modules make up the main workshop and will cover opening files, manipulating data and basic and advanced plotting and the use of generative AI. Day 2 will include time to apply the skills to your own data.  
 
 **Timeline:**
 * Wednesday, August 8 - Complete the pre-workshop registration and survey [here]
@@ -15,9 +14,9 @@ This workshop is designed for those new to python, and consists of 3 modules. Th
   
 **Details:**  
 The Python Primer consists of 3 sub-modules:  
-* [`0.0 Software Installation`](./0.0_python_primer_software_installation.md) – installing python, dependencies and text editor  
-* [`0.1 Syntax Fundamentals`](./0.1_python_primer_syntax_fundamentals.ipynb) – basic loops, types, functions and python philosophy  
-* [`0.2 Package Installation and Management`](./0.2_python_primer_package_installation_and_management.md) – how to handle problematic installations and read documentation
+* [`0.0 Software Installation`](https://github.com/Mines-Python-Workshop/Python_Workshop_Materials/blob/main/Python_Primer/0.0_python_primer_software_installation.md) – installing python, dependencies and text editor  
+* [`0.1 Syntax Fundamentals`](https://github.com/Mines-Python-Workshop/Python_Workshop_Materials/blob/main/Python_Primer/0.1_python_primer_syntax_fundamentals.ipynb) – basic loops, types, functions and python philosophy  
+* [`0.2 Package Installation and Management`](https://github.com/Mines-Python-Workshop/Python_Workshop_Materials/blob/main/Python_Primer/0.2_python_primer_package_installation_and_management.md) – how to handle problematic installations and read documentation
   
 Day 1 consists of 4 sub-modules:
 
