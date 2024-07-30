@@ -1,4 +1,4 @@
-# Silicon X-ray Diffraction
+# Silicon Experimental X-ray Diffraction
 # 2theta  Intensity
 5.00	27
 5.01	22
