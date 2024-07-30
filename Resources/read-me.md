@@ -1,4 +1,4 @@
 Additional resources: 
-- Matplotlib beginner handout
+- Matplotlib for beginners
 - Matplotlib cheat sheet
 - Matplotlib color names
