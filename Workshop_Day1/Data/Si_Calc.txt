@@ -1,6 +1,6 @@
 # Silicon Calculated X-ray Diffraction
 # 2theta  Intensity
-1.00000	0.00000
+1.00000 0.00000
 1.01000	0.16240
 1.02000	0.15931
 1.03000	0.15630
