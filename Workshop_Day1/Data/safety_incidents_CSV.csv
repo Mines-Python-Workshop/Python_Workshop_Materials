@@ -1,0 +1,19 @@
+﻿,Date,Injury Location,Gender,Age Group,Incident Type,Days Lost,Plant,Report Type,Shift,Department,Cost
+0,1/1/2020,Multiple,Male,25-34,Burn,0,Iowa,Near Miss,Afternoon,Painting,$0 
+1,1/3/2020,N/A,Male,35-49,Vehicle,0.5,Alabama,Lost Time,Day,Fabrication,"$3,367 "
+2,1/3/2020,Eye,Male,18-24,Cut,0,Georgia,Near Miss,Day,Administration,$0 
+3,1/4/2020,Legs,Female,50+,Falling Object,0,Iowa,Near Miss,Day,Painting,$0 
+4,1/7/2020,Legs,Male,25-34,Lifting,0,Ohio,Near Miss,Day,Painting,$0 
+5,1/11/2020,N/A,Female,50+,Crush & Pinch,0,Georgia,First Aid,Afternoon,Security,$132 
+6,1/11/2020,Neck,Male,25-34,Crush & Pinch,3.5,Iowa,Lost Time,Day,Purchasing,"$4,872 "
+7,1/12/2020,Feet,Male,35-49,Burn,1.5,California,Lost Time,Night,Administration,"$1,248 "
+8,1/15/2020,N/A,Male,18-24,Fall,0,Florida,First Aid,Afternoon,Maintenance,$29 
+9,1/16/2020,Arms,Male,50+,Crush & Pinch,4.5,Florida,Lost Time,Afternoon,Administration,"$2,525 "
+10,1/18/2020,N/A,Female,35-49,Falling Object,0,Iowa,First Aid,Night,Shipping,$59 
+11,1/23/2020,Neck,Male,35-49,Crush & Pinch,0,Alabama,Medical Claim,Afternoon,Shipping,"$1,947 "
+12,1/26/2020,Eye,Male,35-49,Vehicle,0,Florida,Medical Claim,Day,Finishing,"$2,268 "
+13,1/27/2020,Eye,Male,50+,Burn,0,Texas,Medical Claim,Day,Maintenance,$628 
+14,1/27/2020,Eye,Male,35-49,Burn,0,Georgia,First Aid,Night,Finishing,$77 
+15,1/27/2020,Back,Male,50+,Cut,0,Ohio,First Aid,Day,Shipping,$341 
+16,1/30/2020,Arms,Male,18-24,Burn,0,Montana,Near Miss,Afternoon,Maintenance,$0 
+17,1/30/2020,Hands,Male,35-49,Fall,0,California,Medical Claim,Day,Melting,"$2,007 "
