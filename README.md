@@ -5,10 +5,17 @@ Welcome to the Mines Chemistry Department Programming Workshop!
 This workshop is designed for those new to python, and consists of 3 modules. The first module ([Python Primer](https://github.com/Mines-Python-Workshop/Python_Workshop_Materials/tree/main/Python_Primer)) covers python installation, basic syntax and package installation. If you already have python installed or are comfortable learning basic programming syntax on your own, you may choose to skip this module. The next two modules make up the main workshop and will cover opening files, manipulating data and basic and advanced plotting and the use of generative AI. Day 2 will include time to apply the skills to your own data.  
 
 **Timeline:**
-* Wednesday, August 7 - Complete the pre-workshop survey [here](https://forms.office.com/r/W5VuJM9hwx)
-* Friday, August 9 [1 hr] - Python Primer (optional, highly recommended)
-* Thursday, August 15 [3 hrs] - Workshop Day1
-* Friday, August 16 [3 hrs] - Workshop Day2 + post-workshop survey [here]()  
+* Wednesday, August 7 
+  - Complete the pre-workshop survey [here](https://forms.office.com/r/W5VuJM9hwx)
+* Friday, August 9 [1 hr] 
+  - **Coolbaugh Hall 210** 3:00-4:00pm
+  - Python Primer (optional, highly recommended)
+* Thursday, August 15 [3 hrs] 
+  - **McNeil Hall 313** 1:00-4:00pm
+  - Workshop Day1
+* Friday, August 16 [3 hrs] 
+  - **McNeil Hall 313** 1:00-4:00pm
+  - Workshop Day2 + post-workshop survey [here]()  
   
 *Note*:
 We will have a monthly drop-in meeting if you want help with code during the semester (time/place TBD)
