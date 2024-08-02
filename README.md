@@ -25,7 +25,7 @@ Day 1 consists of 4 sub-modules:
 
 Day 2 consists of 4 sub-modules:  
 * [`2.0 Data Processing and Analysis`]() – statistical analysis, regression and smoothing  
-* [`2.1 Complex Formatting and Data Visualization`](2.1_day2_complex_formatting.md) – using class strutures to access complex formatting 
+* [`2.1 Complex Formatting and Data Visualization`](2.1_day2_complex_formatting.md) – using class structures to access complex formatting 
 * [`2.2 Prompt Engineering for Generative AI`](./2.2_day2_prompt_engineering_for_generative_ai.md) – how to write effective prompts for GPT and interpret the code it writes
 * [`2.3 Applications to Your Data`](./2.3_day2_applications_to_your_data.md) – try to apply workshop tools to you own datasets!
 
