@@ -15,7 +15,7 @@ This workshop is designed for those new to python, and consists of 3 modules. Th
   - Workshop Day1
 * Friday, August 16 [3 hrs] 
   - **McNeil Hall 313** 1:00-4:00pm
-  - Workshop Day2 + post-workshop survey [here]()  
+  - Workshop Day2 + post-workshop survey [here](https://forms.office.com/r/W5VuJM9hwx)  
   
 *Note*:
 We will have a monthly drop-in meeting if you want help with code during the semester (time/place TBD)
